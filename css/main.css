@@ -1,0 +1,60 @@
+html {
+  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+h2 {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.btn-ghost {
+  border: 2px solid #d89fb0;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #b64c6e;
+  background-color: white;
+}
+
+.btn-ghost:hover {
+  border: 2px solid #860927;
+  border-radius: 3px;
+  text-decoration: none;
+  background-color: #d89fb0;
+}
+
+li a {
+  color: #b64c6e;
+  border-bottom: 2px solid #d89fb0;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #860927;
+  border-bottom: 2px solid #860927;
+}
+
+hr {
+  border-top-color: #e2e2e2;
+}
+
+.grey {
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
+}
+
+.g {
+  color: #e2e2e2;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .l {
+    display: block;
+    text-align: left;
+  }
+
+  ul {
+    text-align: right;
+  }
+
+}
