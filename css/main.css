@@ -3,8 +3,14 @@ html {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
-h2 {
+h1,
+h2,
+a {
   font-family: "Noto Sans", sans-serif;
+}
+
+i {
+  font-family: "Noto Sans Japanese", sans-serif;
 }
 
 .btn-ghost {
@@ -44,6 +50,10 @@ hr {
 
 .g {
   color: #e2e2e2;
+}
+
+p {
+  font-family: "Noto Sans", sans-serif;
 }
 
 @media only screen and (min-width: 60em) {
