@@ -5,7 +5,8 @@ html {
 
 h1,
 h2,
-a {
+a,
+p {
   font-family: "Noto Sans", sans-serif;
 }
 
